@@ -27,7 +27,7 @@ export default function ContactPage() {
                 <img
                   src="/director-jvmpay.png"
                   alt="Director of JVMPay"
-                  className="w-48 h-64 rounded-lg mx-auto object-cover shadow-md"
+                  className="w-48 h-80 rounded-lg mx-auto object-cover shadow-md"
                 />
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-1">Director</h3>
