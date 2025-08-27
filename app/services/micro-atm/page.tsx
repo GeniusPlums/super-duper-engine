@@ -185,40 +185,6 @@ export default function MicroATMPage() {
         </div>
       </section>
 
-      {/* Transaction Limits */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8 bg-muted">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-3xl font-bold text-foreground mb-8 text-center">Transaction Limits</h2>
-          <Card>
-            <CardContent className="p-8">
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                <div>
-                  <h3 className="text-lg font-semibold text-foreground mb-4">Withdrawal Limits</h3>
-                  <div className="space-y-2">
-                    <p className="text-muted-foreground">Per Transaction: ₹10,000</p>
-                    <p className="text-muted-foreground">Per Day: ₹10,000</p>
-                    <p className="text-muted-foreground">Per Month: ₹25,000</p>
-                  </div>
-                </div>
-                <div>
-                  <h3 className="text-lg font-semibold text-foreground mb-4">Deposit Limits</h3>
-                  <div className="space-y-2">
-                    <p className="text-muted-foreground">Per Transaction: ₹49,900</p>
-                    <p className="text-muted-foreground">Per Day: ₹49,900</p>
-                    <p className="text-muted-foreground">Per Month: ₹1,00,000</p>
-                  </div>
-                </div>
-              </div>
-              <div className="mt-6 p-4 bg-background rounded-lg">
-                <p className="text-sm text-muted-foreground">
-                  * Limits may vary based on your bank's policies. Small service charges may apply.
-                </p>
-              </div>
-            </CardContent>
-          </Card>
-        </div>
-      </section>
-
       {/* CTA */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 bg-primary">
         <div className="max-w-4xl mx-auto text-center">
