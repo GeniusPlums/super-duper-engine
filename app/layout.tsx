@@ -5,9 +5,8 @@ import GoogleAnalytics from '@/components/google-analytics'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'JVMPay',
+  description: 'Created by JVMPay',
 }
 
 export default function RootLayout({
