@@ -158,10 +158,7 @@ export default function CancellationPage() {
             please contact our support team:
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-2xl mx-auto">
-            <div className="flex items-center justify-center space-x-2 text-primary-foreground">
-              <Phone className="h-5 w-5" />
-              <span>+91 9289936342</span>
-            </div>
+            <div className="flex items-center justify-center space-x-2 text-primary-foreground">            </div>
             <div className="flex items-center justify-center space-x-2 text-primary-foreground">
               <Mail className="h-5 w-5" />
               <span>support@jvmpay.com</span>
