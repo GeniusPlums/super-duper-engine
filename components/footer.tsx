@@ -6,7 +6,7 @@ export function Footer() {
   return (
     <footer className="bg-muted border-t border-border">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
             <div className="flex items-center">
@@ -76,6 +76,25 @@ export function Footer() {
                 className="block text-muted-foreground hover:text-primary text-sm transition-colors"
               >
                 Support
+              </Link>
+            </div>
+          </div>
+
+          {/* Policies */}
+          <div className="space-y-4">
+            <h3 className="font-semibold text-foreground">Policies</h3>
+            <div className="space-y-2">
+              <Link
+                href="/cancellation"
+                className="block text-muted-foreground hover:text-primary text-sm transition-colors"
+              >
+                Cancellation Policy
+              </Link>
+              <Link
+                href="/refund"
+                className="block text-muted-foreground hover:text-primary text-sm transition-colors"
+              >
+                Refund Policy
               </Link>
             </div>
           </div>
