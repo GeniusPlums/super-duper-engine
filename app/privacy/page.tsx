@@ -27,7 +27,7 @@ export default function PrivacyPage() {
           <h2 className="text-3xl font-bold text-foreground mb-8 text-center">Introduction</h2>
           <div className="prose prose-lg max-w-none">
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-              Jaharvir Infinet Pvt Ltd ("JVM Pay", "we", "our", "us") is committed to protecting your privacy and
+              MudraPe ("MudraPe", "we", "our", "us") is committed to protecting your privacy and
               ensuring that your personal information is handled responsibly. This Privacy Policy outlines how we
               collect, process, store, and share your information in compliance with the Digital Personal Data
               Protection Act, 2023 (DPDP Act), RBI guidelines, and other applicable laws of India.
