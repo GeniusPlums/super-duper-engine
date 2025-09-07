@@ -107,7 +107,7 @@ export default function MicroATMPage() {
               <div>
                 <h3 className="text-xl font-semibold text-foreground mb-2">Find Micro ATM Location</h3>
                 <p className="text-muted-foreground">
-                  Visit any shop or location with JVMPay Micro ATM service near you
+                  Visit any shop or location with mudrape Micro ATM service near you
                 </p>
               </div>
             </div>

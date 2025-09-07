@@ -13,7 +13,7 @@ export default function AboutPage() {
       {/* Hero Section */}
       <section className="py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">About JVMPay</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">About MudraPe</h1>
           <p className="text-xl text-muted-foreground mb-8 text-pretty">
             Empowering Rural India with Simple and Secure Financial Services
           </p>
@@ -26,16 +26,16 @@ export default function AboutPage() {
           <h2 className="text-3xl font-bold text-foreground mb-8 text-center">Who We Are</h2>
           <div className="prose prose-lg max-w-none">
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-              Jaharvir Infinet Pvt Ltd is a leading fintech service provider empowering digital financial transactions
+              MudraPe is a leading fintech service provider empowering digital financial transactions
               across India. With a strong focus on financial inclusion, we deliver secure, fast, and user-friendly
               solutions that connect millions of Indians to essential financial services.
             </p>
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-              From urban centers to remote villages, Jaharvir Infinet is building a trusted digital ecosystem that
+              From urban centers to remote villages, MudraPe is building a trusted digital ecosystem that
               simplifies banking and makes financial services accessible to everyone.
             </p>
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-              JVMPay was born from a simple belief: everyone deserves access to safe and easy financial services, no
+              MudraPe was born from a simple belief: everyone deserves access to safe and easy financial services, no
               matter where they live. We saw that people in rural areas often had to travel long distances just to
               withdraw money, send funds to family, or pay their bills.
             </p>
@@ -45,7 +45,7 @@ export default function AboutPage() {
               to everyone.
             </p>
             <p className="text-muted-foreground text-lg leading-relaxed">
-              Today, JVMPay serves thousands of customers across India, helping them manage their money with confidence
+              Today, MudraPe serves thousands of customers across India, helping them manage their money with confidence
               and convenience. We are proud to be a trusted partner in their financial journey.
             </p>
           </div>
@@ -178,7 +178,7 @@ export default function AboutPage() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/">
               <Button size="lg" variant="secondary">
-                Start Using JVMPay
+                Start Using MudraPe
               </Button>
             </Link>
             <Link href="/privacy">

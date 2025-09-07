@@ -99,8 +99,8 @@ export default function TermsPage() {
           <div className="mt-8 p-4 bg-gray-50 rounded-lg text-center">
             <p className="text-sm text-gray-600">
               For questions about these Terms & Conditions, please contact us at{" "}
-              <a href="mailto:support@jvmpay.com" className="text-blue-600 hover:underline">
-                support@jvmpay.com
+              <a href="mailto:support@mudrape.com" className="text-blue-600 hover:underline">
+                support@mudrape.com
               </a>
             </p>
           </div>

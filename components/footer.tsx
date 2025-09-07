@@ -10,7 +10,7 @@ export function Footer() {
           {/* Company Info */}
           <div className="space-y-4">
             <div className="flex items-center">
-              <Image src="/jvmpay-logo.png" alt="JVMPay Logo" width={120} height={40} className="h-10 w-auto" />
+              <Image src="/mudrape-logo.png" alt="mudrape Logo" width={120} height={40} className="h-10 w-auto" />
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Empowering rural India with simple and secure financial services. Making digital payments accessible to
@@ -105,7 +105,7 @@ export function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-primary" />
-                <span className="text-muted-foreground text-sm">support@jvmpay.com</span>
+                <span className="text-muted-foreground text-sm">support@mudrape.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-primary" />
@@ -117,7 +117,7 @@ export function Footer() {
 
         <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-muted-foreground text-sm">
-            © 2024 JVMPay. All rights reserved. | Empowering Rural India with Digital Finance
+            © 2024 mudrape. All rights reserved. | Empowering Rural India with Digital Finance
           </p>
         </div>
       </div>

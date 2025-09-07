@@ -117,15 +117,15 @@ export default function ContactPage() {
             <CardContent className="p-6">
               <div className="mb-4">
                 <img
-                  src="/director-jvmpay.png"
-                  alt="Director of JVMPay"
+                  src="/director-mudrape.png"
+                  alt="Director of mudrape"
                   className="w-48 h-80 rounded-lg mx-auto object-cover shadow-md"
                 />
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-1">Director</h3>
-              <p className="text-blue-600 font-medium">JVMPay Leadership</p>
+              <p className="text-blue-600 font-medium">mudrape Leadership</p>
               <p className="text-gray-600 text-sm mt-2">
-                Leading JVMPay's mission to bring financial services to every corner of India
+                Leading mudrape's mission to bring financial services to every corner of India
               </p>
             </CardContent>
           </Card>
@@ -137,7 +137,7 @@ export default function ContactPage() {
             <CardHeader>
               <CardTitle className="text-2xl text-blue-600">Partner With Us</CardTitle>
               <CardDescription className="text-gray-600">
-                Interested in becoming a JVMPay partner? Fill out the form below and we'll get back to you.
+                Interested in becoming a mudrape partner? Fill out the form below and we'll get back to you.
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-6">
@@ -274,7 +274,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Email</h3>
-                    <p className="text-gray-600">support@jvmpay.com</p>
+                    <p className="text-gray-600">support@mudrape.com</p>
                   </div>
                 </div>
 

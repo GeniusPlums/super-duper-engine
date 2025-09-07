@@ -18,7 +18,7 @@ export default function RefundPage() {
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">Refund Policy</h1>
           <p className="text-xl text-muted-foreground mb-8 text-pretty">
-            Fair and transparent refund procedures for JVMPay services
+            Fair and transparent refund procedures for mudrape services
           </p>
           <p className="text-sm text-muted-foreground">Last updated: December 2024</p>
         </div>
@@ -31,7 +31,7 @@ export default function RefundPage() {
           <div className="prose prose-lg max-w-none">
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
               In the event a request for refund is made by the user for duplicate, incomplete, or rejected
-              transactions, JVMPay will refund such amounts as may be decided by JVMPay in its sole discretion.
+              transactions, mudrape will refund such amounts as may be decided by mudrape in its sole discretion.
               All refunds will be made in accordance with the terms and conditions of the relevant service
               provider providing the payment gateway services.
             </p>
@@ -116,7 +116,7 @@ export default function RefundPage() {
                 </h3>
                 <p className="text-muted-foreground mb-3">
                   Initiate the refund process by contacting our customer support team via email at
-                  <strong> support@jvmpay.com</strong>. Include the following information in your email:
+                  <strong> support@mudrape.com</strong>. Include the following information in your email:
                 </p>
                 <ul className="space-y-2 text-muted-foreground text-sm ml-4">
                   <li>• Your full name</li>
@@ -194,11 +194,11 @@ export default function RefundPage() {
               <div className="bg-saffron/10 border border-saffron/20 p-4 rounded-lg">
                 <p className="text-foreground font-medium mb-2">Policy Updates</p>
                 <p className="text-muted-foreground text-sm mb-4">
-                  JVMPay reserves the right to modify or update this Return and Refund Policy at any time
+                  mudrape reserves the right to modify or update this Return and Refund Policy at any time
                   without prior notice. Please review this policy periodically for any changes.
                 </p>
                 <p className="text-muted-foreground text-sm">
-                  At JVMPay, we value your trust and strive to provide seamless financial technology
+                  At mudrape, we value your trust and strive to provide seamless financial technology
                   solutions and services. Our Return and Refund Policy is designed to ensure fairness
                   and transparency in handling return and refund requests.
                 </p>
@@ -218,11 +218,11 @@ export default function RefundPage() {
           </p>
             <div className="flex items-center justify-center space-x-2 text-primary-foreground">
               <Mail className="h-5 w-5" />
-              <span>support@jvmpay.com</span>
+              <span>support@mudrape.com</span>
             </div>  
           <div className="mt-8">
             <p className="text-primary-foreground/80 text-sm">
-              Thank you for choosing JVMPay for your financial technology needs.
+              Thank you for choosing mudrape for your financial technology needs.
             </p>
           </div>
         </div>

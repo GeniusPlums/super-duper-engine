@@ -137,8 +137,8 @@ export default function DMTPage() {
                 <span className="text-primary-foreground font-bold">1</span>
               </div>
               <div>
-                <h3 className="text-xl font-semibold text-foreground mb-2">Visit JVMPay Agent</h3>
-                <p className="text-muted-foreground">Go to your nearest JVMPay agent with your ID proof</p>
+                <h3 className="text-xl font-semibold text-foreground mb-2">Visit mudrape Agent</h3>
+                <p className="text-muted-foreground">Go to your nearest mudrape agent with your ID proof</p>
               </div>
             </div>
 

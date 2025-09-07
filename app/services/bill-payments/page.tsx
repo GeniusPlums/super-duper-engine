@@ -34,7 +34,7 @@ export default function BillPaymentsPage() {
           <h2 className="text-3xl font-bold text-foreground mb-8 text-center">Easy Bill Payments</h2>
           <div className="prose prose-lg max-w-none">
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-              Never miss a bill payment again! With JVMPay bill payment service, you can pay all your monthly bills
+              Never miss a bill payment again! With mudrape bill payment service, you can pay all your monthly bills
               quickly and safely. No need to stand in long queues or worry about due dates.
             </p>
             <p className="text-muted-foreground text-lg leading-relaxed">
@@ -105,8 +105,8 @@ export default function BillPaymentsPage() {
                 <span className="text-primary-foreground font-bold">1</span>
               </div>
               <div>
-                <h3 className="text-xl font-semibold text-foreground mb-2">Visit JVMPay Agent</h3>
-                <p className="text-muted-foreground">Go to your nearest JVMPay agent with your bill or bill details</p>
+                <h3 className="text-xl font-semibold text-foreground mb-2">Visit mudrape Agent</h3>
+                <p className="text-muted-foreground">Go to your nearest mudrape agent with your bill or bill details</p>
               </div>
             </div>
 
@@ -160,7 +160,7 @@ export default function BillPaymentsPage() {
       {/* Benefits */}
       <section className="py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-3xl font-bold text-foreground mb-12 text-center">Why Pay Bills with JVMPay?</h2>
+          <h2 className="text-3xl font-bold text-foreground mb-12 text-center">Why Pay Bills with mudrape?</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center">
               <Clock className="h-12 w-12 text-primary mx-auto mb-4" />

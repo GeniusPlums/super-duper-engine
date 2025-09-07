@@ -135,8 +135,8 @@ export default function AEPSPage() {
                 <span className="text-primary-foreground font-bold">1</span>
               </div>
               <div>
-                <h3 className="text-xl font-semibold text-foreground mb-2">Visit JVMPay Agent</h3>
-                <p className="text-muted-foreground">Find your nearest JVMPay agent or shop with AEPS service</p>
+                <h3 className="text-xl font-semibold text-foreground mb-2">Visit mudrape Agent</h3>
+                <p className="text-muted-foreground">Find your nearest mudrape agent or shop with AEPS service</p>
               </div>
             </div>
 
@@ -231,7 +231,7 @@ export default function AEPSPage() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold text-primary-foreground mb-4">Ready to Use AEPS?</h2>
           <p className="text-xl text-primary-foreground/90 mb-8">
-            Find your nearest JVMPay agent and start using AEPS today
+            Find your nearest mudrape agent and start using AEPS today
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact">

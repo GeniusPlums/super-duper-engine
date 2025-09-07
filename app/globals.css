@@ -4,7 +4,7 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* Updated color scheme to blue and white theme for JVMPay fintech website */
+  /* Updated color scheme to blue and white theme for mudrape fintech website */
   --background: oklch(1 0 0); /* Pure white background */
   --foreground: oklch(0.35 0 0); /* Dark gray text for readability */
   --card: oklch(0.98 0.005 240); /* Very light blue-tinted white for cards */

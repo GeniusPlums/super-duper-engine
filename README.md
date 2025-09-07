@@ -1,4 +1,4 @@
-# JVMPay website build
+# mudrape website build
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 

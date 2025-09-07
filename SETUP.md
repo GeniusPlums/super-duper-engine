@@ -1,6 +1,6 @@
-# JVMPay Landing Page Setup Guide
+# mudrape Landing Page Setup Guide
 
-This guide will help you set up Google Analytics and the contact form database integration for the JVMPay landing page.
+This guide will help you set up Google Analytics and the contact form database integration for the mudrape landing page.
 
 ## Prerequisites
 

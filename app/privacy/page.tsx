@@ -295,7 +295,7 @@ export default function PrivacyPage() {
             </div>
             <div className="flex items-center justify-center space-x-2 text-primary-foreground">
               <Mail className="h-5 w-5" />
-              <span>privacy@jvmpay.com</span>
+              <span>privacy@mudrape.com</span>
             </div>
           </div>
         </div>

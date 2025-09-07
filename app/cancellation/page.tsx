@@ -16,7 +16,7 @@ export default function CancellationPage() {
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">Cancellation Policy</h1>
           <p className="text-xl text-muted-foreground mb-8 text-pretty">
-            Understanding our cancellation and refund policies for JVMPay services
+            Understanding our cancellation and refund policies for MudraPe services
           </p>
           <p className="text-sm text-muted-foreground">Last updated: December 2024</p>
         </div>
@@ -28,7 +28,7 @@ export default function CancellationPage() {
           <h2 className="text-3xl font-bold text-foreground mb-8 text-center">Policy Overview</h2>
           <div className="prose prose-lg max-w-none">
             <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-              At JVMPay, we strive to provide reliable and efficient financial services. This cancellation policy
+              At MudraPe, we strive to provide reliable and efficient financial services. This cancellation policy
               outlines the terms and conditions regarding cancellations and refunds for our various services.
               Please read this policy carefully before using our services.
             </p>
@@ -161,7 +161,7 @@ export default function CancellationPage() {
             <div className="flex items-center justify-center space-x-2 text-primary-foreground">            </div>
             <div className="flex items-center justify-center space-x-2 text-primary-foreground">
               <Mail className="h-5 w-5" />
-              <span>support@jvmpay.com</span>
+              <span>support@mudrape.com</span>
             </div>
           </div>
         </div>

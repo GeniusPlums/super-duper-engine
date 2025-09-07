@@ -24,13 +24,13 @@ export default function HomePage() {
             Simple Banking for <span className="text-primary">Rural India</span>
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto text-pretty">
-            JVMPay brings secure and easy financial services to your doorstep. Send money, pay bills, and access banking
+            MudraPe brings secure and easy financial services to your doorstep. Send money, pay bills, and access banking
             services with just a few taps.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact">
               <Button size="lg" className="bg-tricolor-gradient text-white hover:opacity-90 text-lg px-8 py-3">
-                Start Using JVMPay
+                Start Using MudraPe
               </Button>
             </Link>
             <Link href="/about">
@@ -172,7 +172,7 @@ export default function HomePage() {
       <section className="py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Why Choose JVMPay?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Why Choose MudraPe?</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Trusted by millions across India with the largest network of financial service providers
             </p>
@@ -275,11 +275,11 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Ready to Get Started?</h2>
           <p className="text-xl text-white/90 mb-8">
-            Join thousands of users who trust JVMPay for their daily financial needs
+            Join thousands of users who trust MudraPe for their daily financial needs
           </p>
           <Link href="/contact">
             <Button size="lg" variant="secondary" className="text-lg px-8 py-3 bg-white text-primary hover:bg-white/90">
-              Start Using JVMPay Today
+              Start Using MudraPe Today
             </Button>
           </Link>
         </div>
